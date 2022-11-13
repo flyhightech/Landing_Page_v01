@@ -1,3 +1,11 @@
 h1 {
-    font-size: xx-large;
+    font: bold, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 3em;
+    color: rgb(0, 255, 72);
+}
+
+p {
+    font: 1em sans-serif;
+    font-size: 1em;
+    color: blue;
 }
